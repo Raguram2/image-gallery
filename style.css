@@ -1,0 +1,157 @@
+
+.top{
+    background-color: dodgerblue;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    color: yellow;
+    cursor: pointer;
+}
+
+    
+.too{
+    background-color:skyblue;
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    position: relative;
+    
+
+}
+.category{
+    
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+    
+
+}
+.c1{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c2{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c3{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+
+}
+.c4{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c5{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c6{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c7{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c8{
+    color: black;
+    border: solid;
+    border-width: 2px;
+    width: 300px;
+    margin: 10px;
+}
+.c9{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c10{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
+.c11{
+    color: black;
+    border: solid;
+    border-width: 5px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+    border-color: black;
+    cursor: pointer;
+}
